@@ -12,7 +12,7 @@
    - Вычисление собственных интеграллов по схеме Ричердсона [RichardsonExtrapolation.ipynb](RichardsonExtrapolation.ipynb)
    - Вычисление несобственных интеграллов по схеме Ричердсона на квазиравномерной сетке [ImproperIntegrals.ipynb](ImproperIntegrals.ipynb)
 - **Интерполяция и Апроксимация**
-   - Интерполяция многочленом Ньютона [SimpleInterpolation.ipynb](SimpleInterpolation.ipynb)
+   - Интерполяция многочленом Ньютона [Interpolation.ipynb](Interpolation.ipynb)
    - Апроксимация многочленом Ньютона [Approximation.ipynb](Approximation.ipynb)
 - **Численное диффиренцирование**
    - При помощи апроксимации многочленом Ноютона [Differentiation.ipynb](Differentiation.ipynb)

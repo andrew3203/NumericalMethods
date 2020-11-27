@@ -15,4 +15,4 @@
    - Интерполяция многочленом Ньютона [Interpolation.ipynb](Interpolation.ipynb)
    - Апроксимация многочленом Ньютона [Approximation.ipynb](Approximation.ipynb)
 - **Численное диффиренцирование**
-   - При помощи апроксимации многочленом Ноютона [Differentiation.ipynb](Differentiation.ipynb)
+   - Простое диффиренцирования с использованием схемы Ричердсона [Differentiation.ipynb](Differentiation.ipynb)

@@ -15,7 +15,11 @@
    - Интерполяция многочленом Ньютона [Interpolation.ipynb](Interpolation.ipynb)
    - Апроксимация многочленом Ньютона [Approximation.ipynb](Approximation.ipynb)
 - **Численное диффиренцирование**
+<<<<<<< HEAD
    - При помощи апроксимации многочленом Ноютона [Differentiation.ipynb](Differentiation.ipynb)
 - **Работа с матрицами**
    - Метод прогонки для СЛАУ [MethodProgonki.ipynb](MethodProgonki.ipynb)
    - Решение различных задач на поиск собственных значений путем метода обратной итерации [ExploreSpectrum.ipynb](ExploreSpectrum.ipynb)
+=======
+   - Простое диффиренцирования с использованием схемы Ричердсона [Differentiation.ipynb](Differentiation.ipynb)
+>>>>>>> d071d0821acbd18dd311d1a89e7c560cdb9637dc
